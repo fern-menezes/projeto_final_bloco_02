@@ -12,6 +12,7 @@ export class ProdutoService {
 
     async findAll(): Promise<Produto[]> {
         return await this.produtoRepository.find({
+
             relations:{
                 categoria: true
             }

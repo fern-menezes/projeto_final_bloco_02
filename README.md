@@ -1,10 +1,10 @@
 <p align="center"> <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a> </p>
 
-<h1 align="center">Farmácia - Gestão de Estoque</h1>
+<h1>Farmácia - Gestão de Estoque</h1>
 
-<p align="center"> <strong>Um projeto para gerenciar o estoque de uma farmácia, construído com o framework NestJS.</strong> </p>
+<p> <strong>Um projeto para gerenciar o estoque de uma farmácia, construído com o framework NestJS.</strong> </p>
 
-📦 Bibliotecas Usadas
+<h2>📦 Bibliotecas Usadas</h2>
 Aqui estão algumas das principais bibliotecas usadas neste projeto:
 
 NestJS - Um framework progressivo para Node.js
@@ -17,14 +17,14 @@ class-validator - Biblioteca para validação de objetos
 
 class-transformer - Biblioteca para transformar objetos
 
-🛠️ Linguagens
+<h2>🛠️ Linguagens</h2>
 Este projeto utiliza as seguintes linguagens:
 
 TypeScript - Principal linguagem de programação utilizada no projeto.
 
 SQL - Usado para interação com o banco de dados SQLite.
 
-🗂️ Estrutura das Pastas
+<h2>🗂️ Estrutura das Pastas</h2>
 A estrutura das pastas do projeto é organizada da seguinte forma:
 
 plaintext
@@ -50,7 +50,8 @@ plaintext
 /test
   - produto.e2e-spec.ts
   - jest-e2e.json
-🧪 Testes
+
+<h2>🧪 Testes</h2>
 O projeto inclui testes end-to-end (e2e) para garantir a funcionalidade das APIs. As etapas para executar os testes são:
 
 Configuração dos Testes
@@ -64,27 +65,13 @@ Para rodar os testes end-to-end, utilize o comando:
 bash
 $ npm run test:e2e
 
-📚 Recursos
+<h2>📚 Recursos</h2>
 Documentação do NestJS
-
 Canal no Discord
-
 Cursos Oficiais
-
 Ferramentas de Dev
 
-Suporte Empresarial
-
-Siga-nos no Twitter e LinkedIn
-
-🤝 Suporte
-Nest é um projeto open source licenciado pelo MIT. Ele cresce graças aos patrocinadores e ao suporte dos incríveis apoiadores. Se você gostaria de se juntar a eles, leia mais aqui.
-
-🌐 Contato
-Autor - Kamil Myśliwiec
-
+<h2>🌐 Contato</h2>
 Website - https://nestjs.com
-
 Twitter - @nestframework
-
-LinkedIn - Seu LinkedIn
+LinkedIn - [https://www.linkedin.com/in/fern-menezes/]
